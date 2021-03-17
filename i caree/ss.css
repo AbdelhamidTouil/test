@@ -1,0 +1,47 @@
+.collapse{ display: flex; justify-content: center;
+background-color: white;
+box-shadow:rgb(190, 183, 183) 5px 5px 5px 5px;
+border-radius: 20px;
+}
+
+body{background-image: url(pp.jpg);
+background-repeat: no-repeat;
+background-position:right;
+}
+.btn-outline-secondary {
+	background-color:#A3A9E5;
+    color: white;
+    border-style: none;
+    
+ 
+}
+.btn-outline-success{
+    background-color: #A3A9E5;
+    color: white;
+    border-style: none;
+  
+
+}
+
+
+#active{color:#6E78F7 ;}
+p{max-width: 40%;}
+
+.navbar{
+    width:40% !important;
+    margin:0px auto;
+    left:0;
+    right:0;
+    padding:0;
+}
+.Icare{position: relative; top: 50px; margin-left: 50px;}
+.d1{background-color:  #A3A9E5; }
+.d2 h1{color: #6E78F7; font-size: 50px;}
+.parent{display: grid;
+grid-template-columns: 5px 1000px;
+grid-gap: 5px; margin-top: 150px; margin-left: 50px; margin-bottom: 100px;}
+ .butt{margin-left: 60px;}
+
+li{margin-left: 50px;}
+
+
